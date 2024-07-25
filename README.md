@@ -1,13 +1,13 @@
-# [The WasteMS Dataset for Semantic Segmentation of Lakeside Waste](https://arxiv.org/abs/)
+# [The WasteMS Dataset for Semantic Segmentation of Lakeside Waste](https://arxiv.org/abs/2407.17028)
 
-This is the official code repository for "Enhancing Environmental Monitoring through Multispectral Imaging: The WasteMS Dataset for Semantic Segmentation of Lakeside Waste". {[Arxiv Paper](https://arxiv.org/)}
+This is the official code repository for "Enhancing Environmental Monitoring through Multispectral Imaging: The WasteMS Dataset for Semantic Segmentation of Lakeside Waste". {[Arxiv Paper](https://arxiv.org/abs/2407.17028)}
 
 ![image](https://github.com/user-attachments/assets/07390b5e-49b5-4ac9-a3b5-3170ad62b2d4)
 
 Fig. 1. Example images from the WasteMS dataset. (a) and (d) show the 9-channel data of two scenes; (b) and (e) are the ground truth mask; (c) and (f) are pseudo-color images composed using 9 channels.
 
 [![GitHub stars](https://badgen.net/github/stars/zhuqinfeng1999/WasteMS)](https://github.com//zhuqinfeng1999/WasteMS)
-[![arXiv](https://img.shields.io/badge/arXiv--b31b1b.svg)](https://arxiv.org/abs/)
+[![arXiv](https://img.shields.io/badge/arXiv-2407.17028-b31b1b.svg)](https://arxiv.org/abs/2407.17028)
 
 ## Abstract
 
@@ -41,11 +41,14 @@ The format of the WasteMS dataset is based on the mmsegmentation.
 If you find this work useful in your research, please consider cite:
 
 ```
-@article{zhu2024,
-  title={},
-  author={},
-  journal={},
-  year={2024}
+@misc{zhu2024enhancingenvironmentalmonitoringmultispectral,
+      title={Enhancing Environmental Monitoring through Multispectral Imaging: The WasteMS Dataset for Semantic Segmentation of Lakeside Waste}, 
+      author={Qinfeng Zhu and Ningxin Weng and Lei Fan and Yuanzhi Cai},
+      year={2024},
+      eprint={2407.17028},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2407.17028}, 
 }
 
 
